@@ -1,0 +1,7 @@
+{
+  "name": "Easit AI Voice Assistant",
+  "description": "A modern, conversational AI assistant with a sleek interface, supporting both voice and text interactions. Designed to be a scalable and user-friendly platform, competing with leading AI assistants.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
